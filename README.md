@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yashs_2001/)](https://www.instagram.com/yashs_2001)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/Yashshah2001/)](https://twitter.com/Yashshah2001)
 
-## ⚡ Technologies
+## 💥 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -22,3 +22,37 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Golang](https://img.shields.io/badge/-golang-blue?style=flat-square&logo=golang)
+
+
+![ Yash github stats](https://github-readme-stats.vercel.app/api?username=yashshah2002)
+
+<!--START_SECTION:table-->
+<details>
+
+<summary>More Stats 📊 </summary>
+
+<!--START_SECTION:waka-->
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20thousand%20lines%20of%20code-blue)
+
+  ```
+
+
+
+<!--END_SECTION:waka-->
+
+<!--END_SECTION:table-->
+
+<!--
+**SaloniSS/SaloniSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
