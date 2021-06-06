@@ -33,6 +33,15 @@
 
 <!--START_SECTION:waka-->
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20thousand%20lines%20of%20code-blue)
+  
+  **I Mostly Code in Python** 
+
+```text
+Python                   12 repos            ████████████░░░░░░░░░░░░░   51.02% 
+Java                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Javascript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+CSS                      4 repos  
 
   ```
 
@@ -43,7 +52,7 @@
 <!--END_SECTION:table-->
 
 <!--
-**SaloniSS/SaloniSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yashshah2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
