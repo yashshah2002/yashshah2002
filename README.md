@@ -24,9 +24,9 @@
 ![Golang](https://img.shields.io/badge/-golang-blue?style=flat-square&logo=golang)
 
 
-![ Yash github stats]
+![ github stats]
 
-([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashshah2002&hide_border=true)](https://git.io/streak-stats))
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashshah2002&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:table-->
 <details>
